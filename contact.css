@@ -1,0 +1,25 @@
+*{
+    padding:0px;
+    margin:0px;
+    box-sizing: border-box;
+}
+.contact-head{
+    background-color: black;
+    margin-left:100px;
+}
+.contact-head span{
+    color:aqua;
+}
+.contact-head h1{
+    color:white;
+}
+.contact{
+    background-color: black;
+    margin-left:100px;
+    display: flex;
+    justify-content: space-between;
+    color:white;
+}
+.cont-about{
+    width:30%
+}
