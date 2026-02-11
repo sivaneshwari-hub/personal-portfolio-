@@ -283,7 +283,7 @@ a{
 }
 
 .circle2 {
-    background-color: rgb(68, 67, 67);
+    background-color: rgb(25, 235, 217);
     padding: 70px;
     border-radius: 50%;
 }
@@ -296,11 +296,12 @@ a{
 }
 
 .profile {
-    height: 160px;
-    width: 160px;
+    height: 100%;
+    width: 100%;
     position: absolute;
     top: 0px;
-    /* right: 140px; */
+    border-radius: 50%;
+   
 }
 
 .navbar-toggler {
